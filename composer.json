@@ -7,13 +7,15 @@
     "require": {
         "php": ">=5.5.9",
         "laravel/framework": "5.1.*",
-        "laravel-doctrine/orm": "dev-master"
+        "laravel-doctrine/orm": "dev-master",
+        "alireza/myauth": "dev-master"
     },
     "require-dev": {
         "fzaninotto/faker": "~1.4",
         "mockery/mockery": "0.9.*",
         "phpunit/phpunit": "~4.0",
-        "phpspec/phpspec": "~2.1"
+        "phpspec/phpspec": "~2.1",
+        "doctrine/doctrine-fixtures-bundle": "^2.2@dev"
     },
     "autoload": {
         "classmap": [

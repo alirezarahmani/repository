@@ -35,6 +35,11 @@ class Post
         $this->setBody($input['body']);
     }
 
+    public function setId($id)
+    {
+        return $this->id=$id;
+    }
+
     public function getId()
     {
         return $this->id;

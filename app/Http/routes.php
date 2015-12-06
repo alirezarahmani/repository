@@ -16,6 +16,7 @@ Route::get('/', function () {
 });
 
 
+
 Route::get('post/edit/{id}', [
      'uses' => 'PostController@edit'
 ]);

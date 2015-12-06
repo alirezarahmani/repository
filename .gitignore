@@ -3,3 +3,7 @@
 Homestead.yaml
 Homestead.json
 .env
+.gitignore
+.gitattributes
+.env.example
+LaravelDoctrineORMFacadesEntityManager::class

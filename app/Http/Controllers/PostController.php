@@ -2,7 +2,7 @@
 namespace App\Http\Controllers;
 use App\Repository\PostRepo as repo;
 use App\Validation\PostValidator;
-//use Session, Input, View, Redirect, App;
+
 
 class PostController extends Controller
 {

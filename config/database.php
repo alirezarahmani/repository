@@ -53,7 +53,7 @@ return [
         ],
 
         'mysql' => [
-            'driver'    => 'pdo_mysql',
+            'driver'    => 'mysql',
             'host'      => 'localhost',
             'database'  => 'laravel',
             'username'  => 'root',
